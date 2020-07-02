@@ -10,3 +10,10 @@ cdk.out
 # Parcel build directories
 .cache
 .build
+
+# add
+embulk/
+oracle/
+vendor/
+embulk.zip
+function.zip

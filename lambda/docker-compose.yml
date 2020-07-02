@@ -1,0 +1,7 @@
+version: "3"
+services:
+  embulk:
+    build: .
+    volumes: 
+        - .:/usr/src/sample
+    working_dir: /usr/src/sample
